@@ -1,0 +1,6 @@
+@TomBookApi_HostAddress = http://localhost:5260
+
+GET {{TomBookApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
